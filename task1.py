@@ -1,8 +1,6 @@
 '''Implement a Python function which returns a list of all of the numbers which are divisible by 7,
  but not divisible by 5, between 2000 and 3200 '''
 
-import task2
-
 def numberRange():
     divi_seven = [] # store output number
     
